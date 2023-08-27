@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/JgIukue.jpg?1" align="center" style="width: 20%" />
 </div>  
 
-### <div align="center">I'm Obafemi, an Artificial Intelligence student studying in Russia and I am always willing to learn new technologies  🛸</div>  
+### <div align="center">I'm Obafemi, an Artificial Intelligence student in the University and I am always willing to learn new technologies  🛸</div>  
 
 - 🌀 I’m currently learning how to use Django and Postgresql
   
