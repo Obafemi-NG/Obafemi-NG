@@ -82,8 +82,10 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Obafemi-NG&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+## Github stats ⚡  
+![](https://github-readme-stats.vercel.app/api?username=Obafemi-NG&theme=calm)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Obafemi-NG&layout=compact&theme=calm&langs_count=10)
 
 <br/>  
 
